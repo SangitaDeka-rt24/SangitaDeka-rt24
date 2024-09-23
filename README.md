@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Aspiring Data Analyst | Data Enthusiast | Lifelong Learner
 
-🔍 I am an aspiring Data Analyst with a keen interest in transforming data into actionable insights. Based in [Your Location], I am dedicated to honing my analytical skills and applying them to real-world challenges.
+🔍 I am an aspiring Data Analyst with a keen interest in transforming data into actionable insights. Based in India, I am dedicated to honing my analytical skills and applying them to real-world challenges.
 
 ---
 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- **Python**, **SQL**, **R** (or other relevant languages)
+- **Python**, **SQL**, **R** 
 
 ### Data Analysis & Visualization Tools
 - **Tools:** Excel, Tableau, Power BI
